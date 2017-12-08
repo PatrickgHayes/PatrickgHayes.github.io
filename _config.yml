@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Patrick Henry Hayes"
 title_separator          : "-"
 name                     : &name "Patrick Hayes"
-description              : &description "Masters student at UCSD primarily interested in computer vision"
+description              : &description "Masters student at UCSD researching computer vision"
 url                      : https://patrickghayes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Patrick Hayes"
   avatar           : "JT Film-23.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Masters student at UCSD researching computer vision"
   location         : "San Diego"
   employer         : 
   googlescholar    : 
